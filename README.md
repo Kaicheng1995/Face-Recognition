@@ -1,6 +1,10 @@
 # Face Recognition
-![](https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf)
 
+<div align=center>
+  <img src="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Demo/demo.gif" width="700"> 
+</div>
+
+</blank>
 + <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf" target="_blank">Project Report</a>
 + <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Presentation.pdf" target="_blank">Project Presentation</a>
 
