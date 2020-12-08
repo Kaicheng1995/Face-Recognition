@@ -1,12 +1,8 @@
 # Face Recognition
+![](https://github.com/Kaicheng1995/Face-Recognition/blob/main/Demo/demo.gif)
 
-<div align=center>
-  <img src="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Demo/demo.gif" width="700"> 
-</div>
-
-</blank>
-+ <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf" target="_blank">Project Report</a>
-+ <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Presentation.pdf" target="_blank">Project Presentation</a>
+* <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf" target="_blank">Project Report</a>
+* <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Presentation.pdf" target="_blank">Project Presentation</a>
 
 By analyzing the development of e-commerce and the application of computer vision in its industry, this project simulated the scene of optimizing commercial pushes by using face recognition and emotion recognition. The project was acheived by the following steps:
 
@@ -23,6 +19,6 @@ By analyzing the development of e-commerce and the application of computer visio
 + Roboflow https://app.roboflow.ai
 
 ## Models and APIs
-+ Create ML 
-+ Turi Create 
-+ Tensorflow Objective Detection API 
++ <a href="https://developer.apple.com/machine-learning/create-ml/" target="_blank">Create ML</a>
++ <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Face_Recognition_Turi.py" target="_blank">Turi Create</a>
++ <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/tensorflow_object_detection_faster_rcnn.py" target="_blank">Tensorflow Objective Detection API</a>
