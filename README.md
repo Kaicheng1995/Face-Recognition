@@ -1,4 +1,5 @@
 # Face Recognition
+![](https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf)
 
 + <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Project_Report.pdf" target="_blank">Project Report</a>
 + <a href="https://github.com/Kaicheng1995/Face-Recognition/blob/main/Presentation.pdf" target="_blank">Project Presentation</a>
@@ -14,10 +15,10 @@ By analyzing the development of e-commerce and the application of computer visio
 ## Image Annotations
 
 + Simple flask application https://github.com/sgp715/simple
-+ LabelImg https://github.com/tzutalin/labelImg) 
++ LabelImg https://github.com/tzutalin/labelImg
 + Roboflow https://app.roboflow.ai
 
 ## Models and APIs
-+ Create ML
++ Create ML 
 + Turi Create 
 + Tensorflow Objective Detection API 
