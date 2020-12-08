@@ -14,9 +14,9 @@ By analyzing the development of e-commerce and the application of computer visio
 
 ## Image Annotations
 
-+ Simple flask application https://github.com/sgp715/simple_image_annotator
-+ LabelImg https://github.com/tzutalin/labelImg
-+ Roboflow https://app.roboflow.ai
++ <a href="https://github.com/sgp715/simple_image_annotator" target="_blank">Simple flask application</a>
++ <a href="https://github.com/tzutalin/labelImg" target="_blank">LabelImg</a>
++ <a href="https://app.roboflow.ai" target="_blank">Roboflow</a>
 
 ## Models and APIs
 + <a href="https://developer.apple.com/machine-learning/create-ml/" target="_blank">Create ML</a>
