@@ -14,7 +14,7 @@ By analyzing the development of e-commerce and the application of computer visio
 
 ## Image Annotations
 
-+ Simple flask application https://github.com/sgp715/simple
++ Simple flask application https://github.com/sgp715/simple_image_annotator
 + LabelImg https://github.com/tzutalin/labelImg
 + Roboflow https://app.roboflow.ai
 
